@@ -1,2 +1,10 @@
 <html>
 	<head>
+		<title>
+			CA NE CHANGE RIEN
+		</title>
+	</head>
+	<body>
+		<h1>Bienvenue sur cette superbe page web</h1>
+	</body>
+</html>
